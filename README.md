@@ -23,6 +23,12 @@ Here my boi: [Download here](https://github.com/realshavkat/shvkt-cloner/release
 
 # How to use?
 
+IMPORTANT!
+Before start the script, download this version of discord:
+```hash
+pip install discord.py==1.7.3
+```
+
 🏁 First, to use this script, launch a command prompt:
 - Start by installing the packages using the :
 ```hash
