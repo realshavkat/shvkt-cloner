@@ -19,6 +19,7 @@
 ```
 
 # How can i download it?
+Here my boi: [Download here](https://github.com/realshavkat/shvkt-cloner/releases/tag/Cloner)
 
 # How to use?
 
