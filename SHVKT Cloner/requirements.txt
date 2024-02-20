@@ -1,4 +1,0 @@
-discord
-selfcord
-asyncio
-colorama
